@@ -16,7 +16,7 @@ It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1)
 
 For the solution proposed, the next techniques were applied:
 * [Data normalization](ieeexplore.ieee.org/document/8269475/).
-* [data augmentation](
+* [Data Augmentation](https://arxiv.org/pdf/1609.08764.pdf).
 * [Contrast Limited Adaptive Histogram Equalization](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html).
 * [Data normalization](https://arxiv.org/pdf/1705.01809.pdf).
 * [Shuffle training set](http://ieeexplore.ieee.org/document/8246726/?reload=true).
@@ -171,5 +171,5 @@ I finally randomly shuffled the data set and put Y% of the data into a validatio
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDQyNjcxMV19
+eyJoaXN0b3J5IjpbLTEzNDg5MjIxOTJdfQ==
 -->
