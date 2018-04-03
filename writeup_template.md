@@ -9,7 +9,7 @@
 ## Writeup report for project 3, term 1.
 
 ---
-This is the report for project 3, term 1. To collect training and validation data, a [simulator develop by Udacity team guys was used]()
+This is the report for project 3, term 1. To collect training and validation data, a *simulator developed by Udacity team guys was used*
 
 In this project a convolutional deep neural network model was used to predict human driving bahaviour. 
 
@@ -173,5 +173,5 @@ I finally randomly shuffled the data set and put Y% of the data into a validatio
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzUxMDY0MV19
+eyJoaXN0b3J5IjpbODkxMDI1NzQxXX0=
 -->
