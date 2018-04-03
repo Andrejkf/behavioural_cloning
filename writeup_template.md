@@ -12,10 +12,10 @@
 This is the report for project 3, term 1. To collect training and validation data, a [simulator](https://github.com/udacity/self-driving-car-sim) developed by Udacity team guys was used.
 In particular, fast Deep Learning design approach was used for parameters tunning and the model implemnetation using Deep Learning library [Keras](https://keras.io/).
 
-It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1), [scikit-learn](http://scikit-learn.org) (version 0.18.1), [TensorFlow GPU](https://www.tensorflow.org/) (version 1.3.0), [OpenCV](https://opencv.org/releases.html) (version 3.4.0) and [Keras](https://keras.io/) (version 
+It was used [anaconda](https://www.anaconda.com/) Python flavour (version 3.6.1), [scikit-learn](http://scikit-learn.org) (version 0.18.1), [TensorFlow GPU](https://www.tensorflow.org/) (version 1.3.0), [OpenCV](https://opencv.org/releases.html) (version 3.4.0) and [Keras](https://keras.io/) (version 2.1.5).
 
 For the solution proposed, the next techniques were applied:
-
+* [Data normalization]()
 * [Contrast Limited Adaptive Histogram Equalization](https://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html).
 * [Data normalization](https://arxiv.org/pdf/1705.01809.pdf).
 * [Shuffle training set](http://ieeexplore.ieee.org/document/8246726/?reload=true).
@@ -170,5 +170,5 @@ I finally randomly shuffled the data set and put Y% of the data into a validatio
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNzg5NjUxXX0=
+eyJoaXN0b3J5IjpbLTIxMzA0MDA4MjZdfQ==
 -->
