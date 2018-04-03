@@ -9,7 +9,7 @@
 ## Writeup report for project 3, term 1.
 
 ---
-This is the report for project 3, term 1. To collect training and validation data, a [simulator develop by Udacity team guys was used](https://github.com/udacity/self-driving-car-sim).
+This is the report for project 3, term 1. To collect training and validation data, a [simulator](https://github.com/udacity/self-driving-car-sim) developed by Udacity team guys was used.
 In particular, fast Deep Learning design approach was used to  depoying the model using 
 
 
@@ -175,5 +175,5 @@ I finally randomly shuffled the data set and put Y% of the data into a validatio
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NzQzNjQyXX0=
+eyJoaXN0b3J5IjpbNjY1NjkxNzldfQ==
 -->
