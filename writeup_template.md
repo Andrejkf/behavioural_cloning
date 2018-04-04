@@ -18,10 +18,8 @@ For the solution proposed, the next techniques were applied:
 * [Data normalization](http://ieeexplore.ieee.org/document/8269475/).
 * [Data Augmentation](https://arxiv.org/pdf/1609.08764.pdf).
 *  [Shuffle training set](http://ieeexplore.ieee.org/document/8246726/?reload=true).
-* [On the fly pre-processing](https://arxiv.org/pdf/1506.01497.pdf).
+* [On the fly pre-processing](https://arxiv.org/pdf/1705.00346.pdf).
 * [Batch Training](https://arxiv.org/abs/1711.00489).
-* [Cross correlation](https://arxiv.org/abs/1309.5388).
-* [Cross entropy](https://icml.cc/Conferences/2005/proceedings/papers/071_CrossEntropy_MannorEtAl.pdf).
 * [Backpropagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf).
 * [Stochastic gradient based optimization](https://arxiv.org/abs/1412.6980).
 
@@ -170,5 +168,5 @@ I finally randomly shuffled the data set and put Y% of the data into a validatio
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was Z as evidenced by ... I used an adam optimizer so that manually training the learning rate wasn't necessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzY1MzAwNV19
+eyJoaXN0b3J5IjpbLTEyMzY0OTY3MzBdfQ==
 -->
